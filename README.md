@@ -8,13 +8,6 @@
 
 ---
 
-### 🛠 Tech Stack  
-- **Languages:** Python, Java, SQL  
-- **Tools:** Git, Linux, VS Code  
-- **Areas:** Data Analysis, Networking, Web Development  
-
----
-
 📫 **Contact:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-hedi-187580375/)  
 [![Email](https://img.shields.io/badge/Email-hediyedes22%40gmail.com-red?style=flat&logo=gmail)](mailto:hediyedes22@gmail.com)
